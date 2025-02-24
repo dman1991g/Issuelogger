@@ -1,5 +1,5 @@
 // Import team data from JSON file
-import team from './team.json' assert { type: 'json' }
+import team from 'team.json' assert { type: 'json' }
 
 
 // Get all DOM elements
